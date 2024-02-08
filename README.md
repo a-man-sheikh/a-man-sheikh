@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aman Sheikh
 ===================================================================================================================================
 
-I'm MERN and JAVA develper
+I'm MERN and JAVA developer
 --------------------------
 
 I love to code and design!!!
