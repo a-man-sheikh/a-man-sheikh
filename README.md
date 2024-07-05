@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aman Sheikh
 ===================================================================================================================================
 
-I'm MERN and JAVA developer
+I'm Full Stack Web developer
 --------------------------
 
 I love to code and design!!!
 
 * 🌍  I'm based in Ujjain
 * ✉️  You can contact me at [sheikhaman0321@gmail.com](mailto:sheikhaman0321@gmail.com)
-* 🧠  I'm learning NEXTJS AND SPRINGBOOT
+* 🧠  I'm learning REACT AND SPRINGBOOT
 * 🤝  I'm open to collaborating on web projects
 * ⚡  Movies and Books
 
